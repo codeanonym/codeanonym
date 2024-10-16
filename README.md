@@ -5,7 +5,7 @@
 - 📫 How to reach me ... my twitter ... https://x.com/CodeDiscipline?t=RWAtilLn8N_s5Se4nz6h3w&s=09
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm working on React, .Net Core and PostgreSQL for past 2 years
-- ♨️ Trivia: .... I have hands-on experience using Pentaho ETL Tool for data movement too, though it has been a while since I last used it.
+- ♨️ Trivia: .... I have hands-on experience using Pentaho ETL Tool for data movement too, though it has been a while
 
 <!---
 codeanonym/codeanonym is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
